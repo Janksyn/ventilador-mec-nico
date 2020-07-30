@@ -6,23 +6,11 @@
 
   GPL V3 Licence
     --------------
-             
-    This program is free software: you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation, either version 3 of the License, or
-    (at your option) any later version.
 
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
+  
+Eric Vinter's original design has been enhanced for using the MEGA arduino board
 
-    You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <https://www.gnu.org/licenses/>.
-
-  Author: Eric Vinter.
-  Created March 19, 2020
-  EMAIL : erv at mailpeers dot net
+Janksyn Bertozzi
   
 */
 
