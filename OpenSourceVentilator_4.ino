@@ -315,7 +315,7 @@ LiquidCrystal_PCF8574 lcd(0x3F); // set the LCD address to 0x27 for a 16 chars a
 
 #ifdef BoschBMxSensor
 // Connecting the BME280 Sensor:
-// Sensor              ->  Board
+// Sensor               ->  Board
 // -----------------------------
 // Vin (Voltage In)    ->  3.3V
 // Gnd (Ground)        ->  Gnd
